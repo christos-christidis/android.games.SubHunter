@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sub Hunter</string>
+    <string name="fugees">Fugees - Ready or Not</string>
+    <string name="enya">Enya - Boadicea (original)</string>
+    <string name="sonar">Sonar sound</string>
+    <string name="select_music">Select music</string>
+    <string name="funny_pics">funny pics</string>
+    <string name="play">Play</string>
+</resources>
